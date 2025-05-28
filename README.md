@@ -1,6 +1,6 @@
 # DcSniper
 
-A simple Python tool to check the availability of Discord usernames, either randomly generated or from a file. it can notifies you via webhook when a username is available.
+A simple Python tool to check the availability of Discord usernames, either randomly generated or from a file. it notifies you via webhook when a username is available.
 
 ## Features
 
